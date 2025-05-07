@@ -5,7 +5,7 @@
 ## 🧩 Features
 
 - **Navigation bar** – with anchor links to page sections.
-- **Hero section** – welcoming message and call-to-action button.
+- **Home section** – welcoming message and call-to-action button.
 - **Services section** – three service boxes with icons and descriptions:
   - E-Commerce
   - Responsive Web
