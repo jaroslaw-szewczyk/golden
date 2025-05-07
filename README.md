@@ -9,7 +9,6 @@
 - **Services section** – three service boxes with icons and descriptions:
   - E-Commerce
   - Responsive Web
-  - Web Security
 - **Portfolio section** – showcases six portfolio items with images, titles, and categories.
 - **Footer** – includes copyright and social media icons.
 
@@ -24,12 +23,3 @@
 - **npm scripts** – task automation for development and production
 - **SASS + Autoprefixer + PostCSS** – modern CSS workflow
 - **html-validate** – HTML quality assurance
-
-## 📁 Project Setup
-
-Install all dependencies and initialize the project structure:
-
-```bash
-npm run init-project
-npm run build
-npm run watch
